@@ -1,0 +1,11 @@
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\bin\Debug\uygulama5if.exe.config
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\bin\Debug\uygulama5if.exe
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\bin\Debug\uygulama5if.pdb
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.csproj.AssemblyReference.cache
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.Form1.resources
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.Properties.Resources.resources
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.csproj.GenerateResource.cache
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.csproj.CoreCompileInputs.cache
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.exe
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.pdb
+C:\Users\LAB4-01\Desktop\samet\uygulama5if\uygulama5if\obj\Debug\uygulama5if.exe.config

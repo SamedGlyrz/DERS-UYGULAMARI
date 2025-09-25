@@ -1,0 +1,10 @@
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\obj\Debug\uygulama6if.csproj.AssemblyReference.cache
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\obj\Debug\uygulama6if.Form1.resources
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\obj\Debug\uygulama6if.Properties.Resources.resources
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\obj\Debug\uygulama6if.csproj.GenerateResource.cache
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\obj\Debug\uygulama6if.csproj.CoreCompileInputs.cache
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\bin\Debug\uygulama6if.exe.config
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\bin\Debug\uygulama6if.exe
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\bin\Debug\uygulama6if.pdb
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\obj\Debug\uygulama6if.exe
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama6if\uygulama6if\obj\Debug\uygulama6if.pdb

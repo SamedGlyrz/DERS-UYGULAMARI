@@ -1,0 +1,11 @@
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\bin\Debug\uygulama4if.exe.config
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\bin\Debug\uygulama4if.exe
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\bin\Debug\uygulama4if.pdb
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.csproj.AssemblyReference.cache
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.Form1.resources
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.Properties.Resources.resources
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.csproj.GenerateResource.cache
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.csproj.CoreCompileInputs.cache
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.exe
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.pdb
+C:\Users\LAB4-01\Desktop\samet\uygulama4if\uygulama4if\obj\Debug\uygulama4if.exe.config

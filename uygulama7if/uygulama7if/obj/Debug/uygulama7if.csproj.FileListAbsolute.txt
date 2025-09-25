@@ -1,0 +1,11 @@
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\bin\Debug\uygulama7if.exe.config
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\bin\Debug\uygulama7if.exe
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\bin\Debug\uygulama7if.pdb
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.csproj.AssemblyReference.cache
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.Form1.resources
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.Properties.Resources.resources
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.csproj.GenerateResource.cache
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.csproj.CoreCompileInputs.cache
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.exe
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.pdb
+C:\Users\LAB4-01\Desktop\UYGULAMALAR\uygulama7if\uygulama7if\obj\Debug\uygulama7if.exe.config
